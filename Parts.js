@@ -14,4 +14,7 @@
 
 4. Object-Orienting
 + Started
++ Finished
 
+5. Prototypes
++ Started
