@@ -30,3 +30,4 @@
 
 8. Wrapping Up Deep Foundations of Advanced JS V2
 + Started
++ Finished 
