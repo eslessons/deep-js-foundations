@@ -23,3 +23,6 @@
 6. Types
 + Started
 + Finished
+
+7. Coercion
++ Started
